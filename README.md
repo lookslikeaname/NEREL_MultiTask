@@ -6,7 +6,7 @@ NER + event/relation classification
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
-![Task](https://img.shields.io/badge/Task-NER_%26_Event_Extraction-green)
+![Status](https://img.shields.io/badge/Status-Educational_Project-green)
 
 This project implements a **Joint Multi-Task Model** based on BERT architecture to solve two Information Extraction tasks simultaneously:
 1.  **Named Entity Recognition (NER):** Token-level classification (BIO tagging).
